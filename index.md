@@ -1,4 +1,4 @@
-# Welcome to our wiki
+# Welcome to the wiki
 ## A home for all of your questions 
 
 ### Connecting to the server:
@@ -11,4 +11,3 @@
     3.4 Join the server for the first time. You will get kicked and given a four digit code.  
     3.5 DM the code to `@Axolotl#7882` on discord
  4. Join the server!
- 
